@@ -390,14 +390,16 @@ p {
 .half-block {
     position: relative;
     width: 50%;
-    background-image: url('../images/in-space-suit.jpg');
+    background-image: url('../images/griffthesheep.png');
+    background-color: #000000;
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
 }
 
     .half-block.v2 {
-        background-image: url('../images/takeoff-small.jpg');
+        background-image: url('../images/DanGriffdog.png');
+        background-color: #00ff43;
     }
 
     .half-block.v3 {
@@ -408,7 +410,7 @@ p {
 
 .full-block {
     width: 100%;
-    background-image: url('../images/waving-in-space.jpg');
+    background-image: url('../images/map.PNG');
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -418,7 +420,8 @@ p {
     position: relative;
     width: 100%;
     padding-bottom: 150%;
-    background-image: url('../images/rocket-take-off.jpg');
+    background-image: url('../images/conniemac.png');
+    background-color: #6d2aaf;
     background-position: 50% 100%;
     background-size: cover;
     background-repeat: no-repeat;
